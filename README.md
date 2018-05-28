@@ -1,0 +1,1 @@
+GetHint2
